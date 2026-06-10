@@ -18,6 +18,7 @@ Implementar uma lista ligada genérica capaz de armazenar elementos de qualquer 
 br.edu.faseh.lista
 │
 ├── FasehList.java
+|__Main.java
 └── Node.java
 ```
 
